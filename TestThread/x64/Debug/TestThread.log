@@ -1,0 +1,4 @@
+﻿  Test.c
+E:\MyUniversity\0_ProgrammingLearning\operatingsystem_code\TestThread\Test.c(61,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+E:\MyUniversity\0_ProgrammingLearning\operatingsystem_code\TestThread\Test.c(61,16): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
+  TestThread.vcxproj -> E:\MyUniversity\0_ProgrammingLearning\operatingsystem_code\TestThread\x64\Debug\TestThread.exe
