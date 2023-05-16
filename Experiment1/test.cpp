@@ -160,7 +160,6 @@ int clear_input_buffer()
     }
     return 0; // 返回0表示清空输入缓冲区成功
 }
-
 int main()
 {
     char c;
