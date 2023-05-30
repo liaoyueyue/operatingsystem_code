@@ -130,7 +130,7 @@ void query()       // 查看当前所有进程运行状态
     }
     else
     {
-        printf("pcbif  优先级    大小   消息\n");
+        printf("pcbid  优先级    大小   消息\n");
         for (i = 0; i < number; i++) // 使用循环变量 i
         {
             printf("%-8d", mainMemory[i].pcbId);
